@@ -1,6 +1,7 @@
 # My-story-so-far
 
-🚀 Customer Support Guru and Data Explorer
+🚀 Service Manager Guru and Data Explorer
+  ------
 
 👋 Greetings! It's great to have you here.I'm Tito Jorj, a Data enthusiast from India 🇮🇳, 👋 I'm all about solving customer puzzles and diving into data like a pro. Here's a peek into my journey:
 
@@ -11,19 +12,19 @@ As a former Customer Support Manager, I've honed my skills in communication, pro
   
 Work Highlights:
   ------
-**🎩 Writesonic** (Aug '22 - Apr '23): Supervised support tasks, dug into data for insights, and made sure our support ship sailed smoothly.
+**🎩 Service Manager @ Writesonic** (Aug '22 - Apr '23): Supervised support tasks, dug into data for insights, and made sure our support ship sailed smoothly.
 <br>
 
-**🌟 Office24By7** (Mar '21 - Jul '22): Led teams, trained newbies, and cooked up strategies based on customer feedback.
-<<br>
-
-**🔍 Amazon Development Center** (Apr '17 - Oct '18): Investigated risks, guided transitions, and kept Amazon's customers safe.
+**🌟 Team Manager @ Office24By7** (Mar '21 - Jul '22): Led teams, trained newbies, and cooked up strategies based on customer feedback.
 <br>
 
-**💻 Dell International Services** (Mar '16 - Mar '17): Fixed tech woes, logged questions, and dispatched the right parts.
+**🔍 Risk Investigator Specialist @ Amazon Development Center** (Apr '17 - Oct '18): Investigated risks, guided transitions, and kept Amazon's customers safe.
 <br>
 
-Fun Fact: When I'm not working in office, you'll find me sipping coffee or wondering why the office microwave always smells like burnt popcorn. 🍿☕
+**💻 Technical Support Associate @ Dell International Services** (Mar '16 - Mar '17): Fixed tech woes, logged questions, and dispatched the right parts.
+<br>
+
+Fun Fact: When I'm not working, you'll find me sipping coffee or wondering why the office microwave always smells like burnt popcorn. 🍿☕
 <br>
 
 Why Data Analysis? Why the switch, you ask?
