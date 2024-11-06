@@ -7,11 +7,14 @@
 
 👀 What I do ?
   ------
-As a former Customer Support Manager, I've honed my skills in communication, problem-solving, and empathetic understanding. Now, I'm channeling that same energy and dedication into unraveling the mysteries of data. From wrangling raw data to crafting compelling visualizations, I thrive on the challenge of transforming complex information into actionable intelligence.
+As a Customer Experience Manager, I've honed my skills in communication, problem-solving, and empathetic understanding. Now, I'm channeling that same energy and dedication into unraveling the mysteries of data. From wrangling raw data to crafting compelling visualizations, I thrive on the challenge of transforming complex information into actionable intelligence.
 
   
 Work Highlights:
   ------
+**📞 Customer Experience Manager @ Office24by7 (Mar '24 - Present): Handled client onboarding, trained front-line workers, and nailed down smooth API integrations to keep clients engaged.
+<br>
+  
 **🎩 Service Manager @ Writesonic** (Aug '22 - Apr '23): Supervised support tasks, dug into data for insights, and made sure our support ship sailed smoothly.
 <br>
 
