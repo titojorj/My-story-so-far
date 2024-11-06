@@ -12,7 +12,7 @@ As a Customer Experience Manager, I've honed my skills in communication, problem
   
 Work Highlights:
   ------
-**📞 Customer Experience Manager @ Office24by7 (Mar '24 - Present): Handled client onboarding, trained front-line workers, and nailed down smooth API integrations to keep clients engaged.
+**📞 Customer Experience Manager @ Office24by7** (Mar '24 - Present): Handled client onboarding, trained front-line workers, and nailed down smooth API integrations to keep clients engaged.
 <br>
   
 **🎩 Service Manager @ Writesonic** (Aug '22 - Apr '23): Supervised support tasks, dug into data for insights, and made sure our support ship sailed smoothly.
